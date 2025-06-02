@@ -13,7 +13,8 @@
 - ⚽ Practicing or watching football (soccer), a passion I've had for years, my favorite team is Torino FC  
 - 🧑‍💻 Exploring new technologies and learning to code  
 - 🎧 Listening to music to relax or get inspired  
-- 🍕 Hanging out with friends and enjoying good food  
+- 🍕 Hanging out with friends and enjoying good food
+- 👔 I love **dressing well** and keeping up with **fashion trends**
 - 📱 Discovering new apps or websites related to fashion and e-commerce
   
 
