@@ -9,7 +9,7 @@
   
 🎯 Things I Enjoy Doing in My Free Time
 
-- 🎮 Playing PlayStation, especially competitive (Fortnite) or adventure games (Minecraft) 
+- 🎮 Playing PlayStation, especially competitive or adventure games 
 - ⚽ Practicing or watching football (soccer), a passion I've had for years, my favorite team is Torino FC  
 - 🧑‍💻 Exploring new technologies and learning to code  
 - 🎧 Listening to music to relax or get inspired  
