@@ -1,4 +1,4 @@
-## **The student at the Ettore Majorana Technical Institute in Grugliasco |  I'm passionate about football and fashion |  My dream is to launch a successful online brand that reflects my personal style and vision**
+## **Daniel Soldano | the student at the Ettore Majorana Technical Institute in Grugliasco |  I'm passionate about football and fashion |  My dream is to launch a successful online brand that reflects my personal style and vision**
 
 👦 **I am Daniel Soldano**
 
