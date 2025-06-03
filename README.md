@@ -1,12 +1,14 @@
-👦 ##I am Daniel Soldano
+## **The student at the Ettore Majorana Technical Institute in Grugliasco |  I'm passionate about football and fashion |  My dream is to launch a successful online brand that reflects my personal style and vision**
 
-💻I'm 16 years old and currently attending school, where I mainly study computer science. I'm passionate about football, video games, and fashion.
+👦 **I am Daniel Soldano**
+
+💻I'm 16 years old and I'm a student at the Ettore Majorana Technical Institute in Grugliasco, where I mainly study computer science. I'm passionate about football, video games, and fashion.
 Right now, I'm learning and improving my web development skills with the goal of creating my own website to sell the clothes I design.
 
 
 
 
-👋 Who I Am and What I Do
+👋 **Who I Am and What I Do**
 
 - 🧑‍💻 My name is Daniel Soldano and I’m a student at the Ettore Majorana Technical Institute in Grugliasco
 - 📚 I study computer science and I’m passionate about technology and software development
@@ -14,7 +16,7 @@ Right now, I'm learning and improving my web development skills with the goal of
 
 
   
-🎯 Things I Enjoy Doing in My Free Time
+🎯 **Things I Enjoy Doing in My Free Time**
 
 - 🎮 Playing PlayStation, especially competitive or adventure games 
 - ⚽ Practicing or watching football (soccer), a passion I've had for years, my favorite team is Torino FC  
@@ -27,7 +29,7 @@ Right now, I'm learning and improving my web development skills with the goal of
 
 
 
-🚀 My Goal
+🚀 **My Goal**
 
 - 🛍️ I want to create a website where I can sell clothing items
 - 🎨 I'm interested in designing or selecting stylish clothes for my online store
