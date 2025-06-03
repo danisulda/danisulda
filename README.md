@@ -1,5 +1,6 @@
-👦 I am Daniel Soldano
-I'm 16 years old and currently attending school, where I mainly study computer science. I'm passionate about football, video games, and fashion.
+👦 **I am Daniel Soldano**
+
+💻I'm 16 years old and currently attending school, where I mainly study computer science. I'm passionate about football, video games, and fashion.
 Right now, I'm learning and improving my web development skills with the goal of creating my own website to sell the clothes I design.
 
 
@@ -20,7 +21,7 @@ Right now, I'm learning and improving my web development skills with the goal of
 - 🧑‍💻 Exploring new technologies and learning to code  
 - 🎧 Listening to music to relax or get inspired  
 - 🍕 Hanging out with friends and enjoying good food
-- 👔 I love **dressing well** and keeping up with **fashion trends**
+- 👔 I love dressing well and keeping up with fashion trends
 - 📱 Discovering new apps or websites related to fashion and e-commerce
   
 
