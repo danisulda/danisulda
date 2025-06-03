@@ -2,7 +2,7 @@
 
 👦 **I am Daniel Soldano**
 
-💻I'm 16 years old and I'm a student at the Ettore Majorana Technical Institute in Grugliasco, where I mainly study computer science. I'm passionate about football, video games, and fashion. Right now, I'm learning and improving my web development skills with the goal of creating my own website to sell the clothes I design.
+💻I am Daniel Soldano the student at the Ettore Majorana Technical Institute in Grugliasco.
 
 
 
